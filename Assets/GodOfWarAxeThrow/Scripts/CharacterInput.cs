@@ -51,6 +51,7 @@ public class CharacterInput : MonoBehaviour
 
     private void ThrowAxe()
     {
+
         m_throwPullController.ThrowAxe();
     }
 
